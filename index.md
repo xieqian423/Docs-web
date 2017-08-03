@@ -30,6 +30,9 @@
  * [执行上下文的创建](/JavaScript/执行上下文的创建.md)
  * [作用域、作用域链及闭包](/JavaScript/作用域、作用域链及闭包.md)
 
+##ES6
+ * [ES6的let和const](/JavaScript/ES6的let和const.md)
+
 ## HTML/CSS
  * [CSS-reset](/HTML-CSS/CSS的reset.md)
  * [CSS选择器权值计算规则](/HTML-CSS/CSS选择器权值计算规则.md)
@@ -37,4 +40,5 @@
  * [margin属性及作用机理](/HTML-CSS/margin属性及作用机理.md)
  * [绝对定位absolute](/HTML-CSS/绝对定位absolute.md)
  * [iframe的优缺点](/HTML-CSS/iframe的优缺点.md)
+
 
