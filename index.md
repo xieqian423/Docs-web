@@ -5,14 +5,14 @@
  * [==和===的区别及转换规则](/JavaScript/==和===的区别及转换规则.md)
  * [Boolean值的转换在流逝控制语句中的重要性](/JavaScript/Boolean值的转换在流逝控制语句中的重要性.md)
  * [call、apply与bind的比较](/JavaScript/call、apply与bind的比较.md)
- * [对象的转换 toString与valueOf](/JavaScript/对象的转换 toString与valueOf.md)
+ * [对象的转换toString与valueOf](/JavaScript/对象的转换toString与valueOf.md)
  * [递归的最佳实现方式](/JavaScript/递归的最佳实现方式.md)
  * [JSON数据的序列化与反序列化](/JavaScript/JSON数据的序列化与反序列化.md)
- * [Ajax技术 之 XMLHttpRequest](/JavaScript/Ajax技术 之 XMLHttpRequest.md)
+ * [Ajax技术之XMLHttpRequest](/JavaScript/Ajax技术之XMLHttpRequest.md)
  * [高级定时器的用法](/JavaScript/高级定时器的用法.md)
 
 ### DOM
- * [documentElement 和 body 相关说明](/JavaScript/documentElement 和 body 相关说明.md)
+ * [documentElement和body相关说明](/JavaScript/documentElement和body相关说明.md)
  * [document的createDocumentFragment方法](/JavaScript/document的createDocumentFragment\(\)法.md)
  * [children属性与childNodes属性](/JavaScript/children属性与childNodes属性.md)
  * [DOM动态加载样式和脚本](/JavaScript/DOM动态加载样式和脚本.md)
@@ -31,10 +31,10 @@
  * [作用域、作用域链及闭包](/JavaScript/作用域、作用域链及闭包.md)
 
 ## HTML/CSS
- * [CSS reset](/HTML-CSS/CSS reset.md)
+ * [CSS-reset](/HTML-CSS/CSS reset.md)
  * [CSS选择器权值计算规则](/HTML-CSS/CSS选择器权值计算规则.md)
  * [img与容器下边界的空隙](/HTML-CSS/img与容器下边界的空隙.md)
  * [margin属性及作用机理](/HTML-CSS/margin属性及作用机理.md)
- * [绝对定位 absolute](/HTML-CSS/绝对定位 absolute.md)
+ * [绝对定位absolute](/HTML-CSS/绝对定位absolute.md)
  * [iframe的优缺点](/HTML-CSS/iframe的优缺点.md)
 
