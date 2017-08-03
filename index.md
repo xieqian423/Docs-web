@@ -31,7 +31,7 @@
  * [作用域、作用域链及闭包](/JavaScript/作用域、作用域链及闭包.md)
 
 ## HTML/CSS
- * [CSS-reset](/HTML-CSS/CSS reset.md)
+ * [CSS-reset](/HTML-CSS/CSS的reset.md)
  * [CSS选择器权值计算规则](/HTML-CSS/CSS选择器权值计算规则.md)
  * [img与容器下边界的空隙](/HTML-CSS/img与容器下边界的空隙.md)
  * [margin属性及作用机理](/HTML-CSS/margin属性及作用机理.md)
