@@ -1,6 +1,6 @@
-#ES6的变量声明let和const
+# ES6的变量声明let和const
 
-##let
+## let
 let用于定义块级作用域，只在声明的块级作用域内有效
 
 看一下下面的例子：
@@ -47,7 +47,7 @@ var声明的变量由于存在函数作用域内，执行定时器时，该函�
     }
     test();  //
 
-###其他特性
+### 其他特性
  1.typeof不再安全
 
     typeof x; // ReferenceError
@@ -62,11 +62,12 @@ var声明的变量由于存在函数作用域内，执行定时器时，该函�
        let arg; // 报错
      }
 
-##const 命令
- 1. const声明常量，一旦声明，常量的值就不能改变，记住是常量哦。
 
-    const PI = 3.1415;
-    PI = 3;    // TypeError: Assignment to constant variable.
+## const 命令
+1.const声明常量，一旦声明，常量的值就不能改变，记住是常量哦。
+
+	const PI = 3.1415;
+	PI = 3;    // TypeError: Assignment to constant variable.
 
 再看一个例子：
 
@@ -79,22 +80,24 @@ var声明的变量由于存在函数作用域内，执行定时器时，该函�
     // 将 foo 指向另一个对象，就会报错
     foo = {}; // TypeError: "foo" is read-only
 
-说明：常量foo储存的是一个地址，这个地址指向一个对象。不可变的只是这个地址，
+说明：
+常量foo储存的是一个地址，这个地址指向一个对象。不可变的只是这个地址，
 即不能把foo指向另一个地址，但对象本身是可变的，所以依然可以为其添加新属性。
 
- 2.因为声明的变量不得改变值，意味着，const一旦声明变量，就必须立即初始化，
+2.因为声明的变量不得改变值，意味着，const一旦声明变量，就必须立即初始化，
 
     const foo;
     // SyntaxError: Missing initializer in const declaration
- 3.和let一样只在块内有效，并且不会提升变量
 
-        if (true) {
-          const MAX = 5;
-        }
-        MAX // Uncaught ReferenceError: MAX is not defined
+3.和let一样只在块内有效，并且不会提升变量
+
+    if (true) {
+      const MAX = 5;
+    }
+    MAX // Uncaught ReferenceError: MAX is not defined
 
 
-###块作用域中的函数
+## 块作用域中的函数
 
     'use strict';
     foo();  //输出1

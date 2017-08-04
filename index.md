@@ -30,8 +30,9 @@
  * [执行上下文的创建](/JavaScript/执行上下文的创建.md)
  * [作用域、作用域链及闭包](/JavaScript/作用域、作用域链及闭包.md)
 
-##ES6
+### ES6
  * [ES6的let和const](/JavaScript/ES6的let和const.md)
+ * [ES6新的数据类型symbol](/JavaScript/ES6新的数据类型symbol.md)
 
 ## HTML/CSS
  * [CSS-reset](/HTML-CSS/CSS的reset.md)
