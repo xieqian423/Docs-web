@@ -30,4 +30,4 @@
 ## 实例
 这里可以看到谷歌浏览器已经把样式的优先级从大到小排好了。
 
- ![实例](/images/selector_weight.png)
+ ![实例](images/selector_weight.png)
