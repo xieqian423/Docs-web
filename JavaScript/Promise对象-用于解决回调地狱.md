@@ -61,7 +61,7 @@ Promise构造函数接受一个函数作为参数，该函数的两个参数分�
 * resolve函数的作用是，将状态从“未完成”变为“成功”；
 * reject函数的作用是，将状态从“未完成”变为“失败”。
 
-     var  fn = function(num) {
+      var  fn = function(num) {
         return new Promise(function(resolve, reject) {
             if (typeof num == 'number') {
                 resolve(num);
@@ -69,15 +69,15 @@ Promise构造函数接受一个函数作为参数，该函数的两个参数分�
                 reject('TypeError');
             }
         });
-     };
+      };
 
-    fn(2).then(function(num){
-        console.log('first: ' + num);
-        return num + 1;
-    }).then(function(num){
-        //获取上一个then回调函数的return返回结果
-        console.log('second: ' + num);
-    });
+      fn(2).then(function(num){
+         console.log('first: ' + num);
+         return num + 1;
+      }).then(function(num){
+         //获取上一个then回调函数的return返回结果
+         console.log('second: ' + num);
+      });
 
 
 最好在resolve或reject前面加上return语句，这样可以保证后面的语句不会执行，后继操作应该放到then方法里面。
