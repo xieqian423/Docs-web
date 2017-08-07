@@ -29,12 +29,15 @@
  * [确定this指向](/JavaScript/确定this指向.md)
  * [执行上下文的创建](/JavaScript/执行上下文的创建.md)
  * [作用域、作用域链及闭包](/JavaScript/作用域、作用域链及闭包.md)
+ * [WebSocket通信](/JavaScript/WebSocket.md)
  * [模块化（一）](/JavaScript/模块化（一）.md)
  * [模块化（二）Commonjs和AMD](/JavaScript/模块化（二）Commonjs和AMD.md)
- 
+
 ### ES6
  * [ES6的let和const](/JavaScript/ES6的let和const.md)
  * [ES6新的数据类型symbol](/JavaScript/ES6新的数据类型symbol.md)
+ * [Promise对象-用于解决回调地狱](/JavaScript/Promise对象-用于解决回调地狱.md)
+ * [Promise中的事件循环机制](/JavaScript/Promise中的事件循环机制.md)
 
 ## HTML/CSS
  * [CSS-reset](/HTML-CSS/CSS的reset.md)
