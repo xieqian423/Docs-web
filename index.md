@@ -9,7 +9,7 @@
  * [递归的最佳实现方式](/JavaScript/递归的最佳实现方式.md)
  * [JSON数据的序列化与反序列化](/JavaScript/JSON数据的序列化与反序列化.md)
  * [Ajax技术之XMLHttpRequest](/JavaScript/Ajax技术之XMLHttpRequest.md)
- * [高级定时器的用法](/JavaScript/高级定时器的用法.md)
+ * [定时器原理及函数节流](/JavaScript/高级定时器的用法.md)
 
 ### DOM
  * [documentElement和body相关说明](/JavaScript/documentElement和body相关说明.md)
@@ -21,6 +21,7 @@
  * [DOM事件原理](/JavaScript/DOM事件原理.md)
  * [DOM元素的特性（Attribute）和属性（Property）](/JavaScript/DOM元素的特性（Attribute）和属性（Property）.md)
  * [DOM中慎用NodeList](/JavaScript/DOM中慎用NodeList.md)
+ * [移动端click事件的300ms延迟](/JavaScript/移动端click事件的300ms延迟.md)
 
 ### JS进阶
  * [不要在原型上使用对象](/JavaScript/不要在原型上使用对象.md)
@@ -32,6 +33,7 @@
  * [WebSocket通信](/JavaScript/WebSocket.md)
  * [模块化（一）](/JavaScript/模块化（一）.md)
  * [模块化（二）Commonjs和AMD](/JavaScript/模块化（二）Commonjs和AMD.md)
+ * [观察者模式-实现自定义事件](/JavaScript/观察者模式-实现自定义事件.md)
 
 ### ES6
  * [ES6的let和const](/JavaScript/ES6的let和const.md)
