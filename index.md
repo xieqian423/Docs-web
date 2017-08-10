@@ -30,6 +30,7 @@ https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
 ### JS进阶
  * [不要在原型上使用对象](/JavaScript/不要在原型上使用对象.md)
  * [实例化与原型链](/JavaScript/实例化与原型链.md)
+ * [面向对象封装的几种模式](/JavaScript/面向对象封装的几种模式.md)
  * [继承的几种实现方式](/JavaScript/继承的几种实现方式.md)
  * [确定this指向](/JavaScript/确定this指向.md)
  * [执行上下文的创建](/JavaScript/执行上下文的创建.md)
@@ -56,6 +57,7 @@ https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
  * [绝对定位absolute](/HTML-CSS/绝对定位absolute.md)
  * [iframe的优缺点](/HTML-CSS/iframe的优缺点.md)
  * [CSS动画设置](/HTML-CSS/CSS动画设置.md)
+ * [浏览器缓存机制.md](/HTML-CSS/浏览器缓存机制.md)
  * [HTML5离线缓存](/HTML-CSS/HTML5离线缓存.md)
 
 
