@@ -10,19 +10,21 @@
  * [JSON数据的序列化与反序列化](/JavaScript/JSON数据的序列化与反序列化.md)
  * [Ajax技术之XMLHttpRequest](/JavaScript/Ajax技术之XMLHttpRequest.md)
  * [定时器原理及函数节流](/JavaScript/高级定时器的用法.md)
-
+ * [惰性载入函数，减少执行分支](/JavaScript/减少执行分支与惰性载入函数.md)
 转载
 
 https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
 
 ### DOM
+ * [（转）实现DOMReady](http://www.jianshu.com/p/88b9d3874749)
  * [documentElement和body相关说明](/JavaScript/documentElement和body相关说明.md)
  * [document的createDocumentFragment方法](/JavaScript/document的createDocumentFragment\(\)法.md)
  * [children属性与childNodes属性](/JavaScript/children属性与childNodes属性.md)
  * [DOM动态加载样式和脚本](/JavaScript/DOM动态加载样式和脚本.md)
- * [DOM获取元素样式getComputedStyle](/JavaScript/DOM获取元素样式getComputedStyle.md)
- * [DOM事件委托与性能优化](/JavaScript/DOM事件委托与性能优化.md)
+ * [DOM节点的操作](/JavaScript/DOM节点的操作.md)
+ * [DOM样式操作、getComputedStyle以及HTML5类操作](/JavaScript/DOM获取元素样式getComputedStyle.md)
  * [DOM事件原理](/JavaScript/DOM事件原理.md)
+ * [DOM事件委托与性能优化](/JavaScript/DOM事件委托与性能优化.md)
  * [DOM元素的特性（Attribute）和属性（Property）](/JavaScript/DOM元素的特性（Attribute）和属性（Property）.md)
  * [DOM中慎用NodeList](/JavaScript/DOM中慎用NodeList.md)
  * [移动端click事件的300ms延迟](/JavaScript/移动端click事件的300ms延迟.md)
@@ -35,6 +37,7 @@ https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
  * [确定this指向](/JavaScript/确定this指向.md)
  * [执行上下文的创建](/JavaScript/执行上下文的创建.md)
  * [作用域、作用域链及闭包](/JavaScript/作用域、作用域链及闭包.md)
+ * [（转）严格模式](http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode.html)
  * [WebSocket通信](/JavaScript/WebSocket.md)
  * [模块化（一）](/JavaScript/模块化（一）.md)
  * [模块化（二）Commonjs和AMD](/JavaScript/模块化（二）Commonjs和AMD.md)
@@ -45,6 +48,9 @@ https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
  * [ES6新的数据类型symbol](/JavaScript/ES6新的数据类型symbol.md)
  * [Promise对象-用于解决回调地狱](/JavaScript/Promise对象-用于解决回调地狱.md)
  * [Promise中的事件循环机制](/JavaScript/Promise中的事件循环机制.md)
+
+### Jquery
+ * [jQuery中bind，live，delegate，on绑定事件的方式与区别](/JavaScript/jQuery中bind，live，delegate，on绑定事件的方式与区别.md)
 
 ## HTML/CSS
  * [CSS-reset](/HTML-CSS/CSS的reset.md)
