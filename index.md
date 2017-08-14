@@ -3,6 +3,8 @@
 
  * [js数据类型及安全的检测方法](/JavaScript/js数据类型及安全的检测方法.md)
  * [==和===的区别及转换规则](/JavaScript/==和===的区别及转换规则.md)
+   https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
+
  * [Boolean值的转换在流逝控制语句中的重要性](/JavaScript/Boolean值的转换在流逝控制语句中的重要性.md)
  * [call、apply与bind的比较](/JavaScript/call、apply与bind的比较.md)
  * [对象的转换toString与valueOf](/JavaScript/对象的转换toString与valueOf.md)
@@ -11,9 +13,6 @@
  * [Ajax技术之XMLHttpRequest](/JavaScript/Ajax技术之XMLHttpRequest.md)
  * [定时器原理及函数节流](/JavaScript/高级定时器的用法.md)
  * [惰性载入函数，减少执行分支](/JavaScript/减少执行分支与惰性载入函数.md)
-转载
-
-https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
 
 ### DOM
  * [（转）实现DOMReady](http://www.jianshu.com/p/88b9d3874749)
@@ -65,5 +64,16 @@ https://blog.fundebug.com/2017/08/09/explain_value_reference_in_js/
  * [CSS动画设置](/HTML-CSS/CSS动画设置.md)
  * [浏览器缓存机制.md](/HTML-CSS/浏览器缓存机制.md)
  * [HTML5离线缓存](/HTML-CSS/HTML5离线缓存.md)
+
+## 计算机网络
+ * [TCP的三次握手和四次挥手](/Network/TCP的连接和释放.md)
+ * [TCP协议对HTTP性能的影响及优化](/Network/TCP协议对HTTP性能的影响及优化.md)
+ * [（转）关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
+ * [基本认证和摘要认证](/Network/基本认证和摘要认证.md)
+ * [对称加密与非对称加密](/Network/对称加密与非对称加密.md)
+ * [数字签名和数字证书](/Network/数字签名和数字证书)
+ * [HTTP与HTTPS的区别](/Network/HTTP与HTTPS的区别.md)
+ * [SSL与HTTPS](/Network/SSL与HTTPS.md)
+
 
 
