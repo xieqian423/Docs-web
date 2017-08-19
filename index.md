@@ -13,6 +13,7 @@
  * [Ajax技术之XMLHttpRequest](/JavaScript/Ajax技术之XMLHttpRequest.md)
  * [定时器原理及函数节流](/JavaScript/高级定时器的用法.md)
  * [惰性载入函数，减少执行分支](/JavaScript/减少执行分支与惰性载入函数.md)
+ * [（转）解析神奇的 Object.defineProperty](https://segmentfault.com/a/1190000004346467?utm_source=tuicool&utm_medium=referral)
 
 ### DOM
  * [（转）实现DOMReady](http://www.jianshu.com/p/88b9d3874749)
@@ -53,8 +54,11 @@
  * [（转）React组件生命周期（一）](http://www.jianshu.com/p/4784216b8194)
  * [（转）React组件生命周期（二）](http://blog.csdn.net/limm33/article/details/50942808)
  * [（转）React创建组件的三种方式及其区别](http://www.cnblogs.com/wonyun/p/5930333.html)
- * [npm中的package.json](http://www.cnblogs.com/zourong/p/5943224.html)
+ * [（转）npm中的package.json](http://www.cnblogs.com/zourong/p/5943224.html)
+ * [（转）React与Babel基本使用](http://www.jianshu.com/p/8fc75ad09eeb)
  * [webpack入门](/Tools/webpack入门.md)
+ * [React+webpack快速搭建](http://www.jianshu.com/p/418e48e0cef1)
+ * [Git常用命令](/Tools/Git常用命令.md)
 
 ## HTML/CSS
  * [CSS-reset](/HTML-CSS/CSS的reset.md)
