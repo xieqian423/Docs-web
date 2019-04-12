@@ -6,6 +6,8 @@
 （3）把这个对象的__ptoto__属性设置为构造函数的prototype
 （4）返回obj（如果构造函数有显式返回对象类型的，则是构造函数返回的这个对象
 
+new 只能作用于构造函数即function
+
 
 ### prototype 与 _proto_
 prototype：只有函数(准确地说是构造函数)才有的，内置constructor属性，prototype也属于普通对象所以有__proto__属性
@@ -28,3 +30,6 @@ __proto__：是所有对象(包括函数)都有的属性，它才叫做对象的
       }
       b.getName()  // 2
    由此可以看出, new对象时是将对象的__ptoto__属性指向为构造函数的prototype的引用
+   
+ ### Object.create
+ 作用于 function 和 object
